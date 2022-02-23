@@ -1,2 +1,4 @@
 # WOFOS_JokeSoft
-This is Jolesoft. Made with Visualbat
+Development is finished.
+successor version:
+https://github.com/ABATbeliever/Offsetting_DOS
